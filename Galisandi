@@ -1,0 +1,998 @@
+#EXTINF:-1 group-title="LOKAL", INDOSIAR
+http://tsptv.xyz:8888/tayo11/bus/1845
+#EXTINF:-1 group-title="LOKAL", SCTV
+http://tsptv.xyz:8888/tayo11/bus/32
+#EXTINF:-1 group-title="LOKAL", TRANS TV
+http://tsptv.xyz:8888/tayo11/bus/34
+#EXTINF:-1 group-title="LOKAL", TRANS 7
+http://tsptv.xyz:8888/tayo11/bus/35
+#EXTINF:-1 group-title="LOKAL", RCTI
+http://bit.ly/tsprctiid
+#EXTINF:-1 group-title="LOKAL", GTV
+http://bit.ly/tspgtvid
+#EXTINF:-1 group-title="LOKAL", MNCTV
+http://id2.indostreamingtv.com/live/event/index.m3u8
+#EXTINF:-1 group-title="LOKAL", ANTV
+http://tsptv.xyz:8888/tayo11/bus/31
+#EXTINF:-1 group-title="LOKAL", NET
+http://tsptv.xyz:8888/tayo11/bus/24
+#EXTINF:-1 group-title="LOKAL", TVONE
+http://tsptv.xyz:8888/tayo11/bus/29
+#EXTINF:-1 group-title="LOKAL", KOMPAS TV
+http://tsptv.xyz:8888/tayo11/bus/30
+#EXTINF:-1 group-title="LOKAL", METRO TV
+http://tsptv.xyz:8888/tayo11/bus/52
+#EXTINF:-1 group-title="LOKAL", TVRI
+http://tsptv.xyz:8888/tayo11/bus/36
+#EXTINF:-1 group-title="LOKAL", RTV
+http://tsptv.xyz:8888/tayo11/bus/37
+#EXTINF:-1 group-title="LOKAL", INEWS TV
+http://bit.ly/tspinews
+#EXTINF:-1 group-title="LOKAL", TRANS TV HD
+http://tsptv.xyz:8888/tayo11/bus/929
+#EXTINF:-1 group-title="LOKAL", INDOSIAR HD 
+http://tsptv.xyz:8888/tayo11/bus/33
+#EXTINF:-1 group-title="LOKAL", SCTV HD
+http://tsptv.xyz:8888/tayo11/bus/931
+#EXTINF:-1 group-title="LOKAL", NET HD
+http://tsptv.xyz:8888/tayo11/bus/78
+#EXTINF:-1 group-title="LOKAL", METRO TV HD
+http://tsptv.xyz:8888/tayo11/bus/1697
+#EXTINF:-1 group-title="LOKAL", RCTI HD
+http://bit.ly/tsprctihd
+#EXTINF:-1 group-title="LOKAL", TRANS 7 HD
+http://bit.ly/tsptrans7hd
+#EXTINF:-1 group-title="LOKAL", DAAI TV
+http://tsptv.xyz:8888/tayo11/bus/21
+#EXTINF:-1 group-title="LOKAL", MYTV
+http://tsptv.xyz:8888/tayo11/bus/77
+#EXTINF:-1 group-title="LOKAL", JTV
+http://tsptv.xyz:8888/tayo11/bus/135
+#EXTINF:-1 group-title="LOKAL", KITANESIA
+http://tsptv.xyz:8888/tayo11/bus/607
+#EXTINF:-1 group-title="LOKAL", BALI TV
+http://tsptv.xyz:8888/tayo11/bus/889
+#EXTINF:-1 group-title="LOKAL", JAKTV
+http://tsptv.xyz:8888/tayo11/bus/1210
+
+
+#EXTINF:-1 group-title="MOVIE", HBO HD
+http://tsptv.xyz:8888/tayo11/bus/210
+#EXTINF:-1 group-title="MOVIE", HBO HITS
+http://tsptv.xyz:8888/tayo11/bus/591
+#EXTINF:-1 group-title="MOVIE", HBO FAMILY
+http://tsptv.xyz:8888/tayo11/bus/592
+#EXTINF:-1 group-title="MOVIE", HBO SIGNATURE
+http://tsptv.xyz:8888/tayo11/bus/873
+#EXTINF:-1 group-title="MOVIE", RED BY HBO
+http://tsptv.xyz:8888/tayo11/bus/874
+#EXTINF:-1 group-title="MOVIE", FOX LIFE HD
+http://tsptv.xyz:8888/tayo11/bus/94
+#EXTINF:-1 group-title="MOVIE", FOX HD
+http://tsptv.xyz:8888/tayo11/bus/95
+#EXTINF:-1 group-title="MOVIE", FOX MOVIES HD
+http://tsptv.xyz:8888/tayo11/bus/98
+#EXTINF:-1 group-title="MOVIE", FOX ACTION HD
+http://tsptv.xyz:8888/tayo11/bus/99
+#EXTINF:-1 group-title="MOVIE", FOX FAMILY HD
+http://tsptv.xyz:8888/tayo11/bus/100
+#EXTINF:-1 group-title="MOVIE", FOX CRIME HD
+http://tsptv.xyz:8888/tayo11/bus/763
+#EXTINF:-1 group-title="MOVIE", FX HD
+http://tsptv.xyz:8888/tayo11/bus/776
+#EXTINF:-1 group-title="MOVIE", THRILL
+http://tsptv.xyz:8888/tayo11/bus/4
+#EXTINF:-1 group-title="MOVIE", CELESTIAL MOVIE
+http://tsptv.xyz:8888/tayo11/bus/5
+#EXTINF:-1 group-title="MOVIE", CCM
+http://bit.ly/tspccm
+#EXTINF:-1 group-title="MOVIE", ZEE BIOSKOP
+http://tsptv.xyz:8888/tayo11/bus/7
+#EXTINF:-1 group-title="MOVIE", KIX
+http://tsptv.xyz:8888/tayo11/bus/8
+#EXTINF:-1 group-title="MOVIE", AXN
+http://tsptv.xyz:8888/tayo11/bus/9
+#EXTINF:-1 group-title="MOVIE", SONY MAX
+http://tsptv.xyz:8888/tayo11/bus/180
+#EXTINF:-1 group-title="MOVIE", STAR WORLD
+http://tsptv.xyz:8888/tayo11/bus/381
+#EXTINF:-1 group-title="MOVIE", STAR CHINESE MOVIE
+http://tsptv.xyz:8888/tayo11/bus/780
+#EXTINF:-1 group-title="MOVIE", SCM LEGENDS
+http://tsptv.xyz:8888/tayo11/bus/1859
+#EXTINF:-1 group-title="MOVIE", CINEMAX
+http://tsptv.xyz:8888/tayo11/bus/796
+#EXTINF:-1 group-title="MOVIE", BLUE ANT EXTREME
+http://tsptv.xyz:8888/tayo11/bus/811
+#EXTINF:-1 group-title="MOVIE", DIVA
+http://tsptv.xyz:8888/tayo11/bus/841
+#EXTINF:-1 group-title="MOVIE", WARNER TV
+http://tsptv.xyz:8888/tayo11/bus/865
+#EXTINF:-1 group-title="MOVIE", LIFETIME
+http://tsptv.xyz:8888/tayo11/bus/866
+#EXTINF:-1 group-title="MOVIE", IMC
+http://tsptv.xyz:8888/tayo11/bus/875
+#EXTINF:-1 group-title="MOVIE", BIOSKOP INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/908
+#EXTINF:-1 group-title="MOVIE", FLIK HD
+http://tsptv.xyz:8888/tayo11/bus/933
+#EXTINF:-1 group-title="MOVIE", HITS
+http://tsptv.xyz:8888/tayo11/bus/1195
+#EXTINF:-1 group-title="MOVIE", JGO
+http://tsptv.xyz:8888/tayo11/bus/1487
+#EXTINF:-1 group-title="MOVIE", SINEMA INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/1698
+#EXTINF:-1 group-title="MOVIE", PARAMOUNT CHANNEL
+http://tsptv.xyz:8888/tayo11/bus/1841
+#EXTINF:-1 group-title="MOVIE", STAR MOVIES HD
+http://tinyurl.com/yx9r6aar
+#EXTINF:-1 group-title="MOVIE", &FLIK HD ENGLISH
+http://tinyurl.com/y53p67oj
+#EXTINF:-1 group-title="MOVIE", &PRIVE HD ENGLISH
+http://tinyurl.com/y5u3bcgc
+#EXTINF:-1 group-title="MOVIE", RAI PREMIUM HD
+http://tinyurl.com/y4abdam3
+#EXTINF:-1 group-title="MOVIE", RAI MOVIES
+http://tinyurl.com/y3a6l557
+#EXTINF:-1 group-title="MOVIE", MOVIE EXTRA 1
+http://bit.ly/tspholly1
+#EXTINF:-1 group-title="MOVIE", MOVIE EXTRA 2
+http://bit.ly/tspholly2
+#EXTINF:-1 group-title="MOVIE", MOVIE EXTRA 3
+http://bit.ly/tspholly3
+#EXTINF:-1 group-title="MOVIE", JACKIE CHAN
+http://tinyurl.com/yxs9oxhb
+
+
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 1 INDONRSIA
+http://tsptv.xyz:8888/tayo11/bus/728
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 2 INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/729
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 3 INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/730
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 1 ARAB
+http://tsptv.xyz:8888/tayo11/bus/10
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 2 ARAB
+http://tsptv.xyz:8888/tayo11/bus/11
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 3 ARAB
+http://tsptv.xyz:8888/tayo11/bus/12
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 4 ARAB
+http://tsptv.xyz:8888/tayo11/bus/217
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 5 ARAB
+http://tsptv.xyz:8888/tayo11/bus/218
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 6 ARAB
+http://tsptv.xyz:8888/tayo11/bus/219
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 7 ARAB
+http://tsptv.xyz:8888/tayo11/bus/220
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 8 ARAB
+http://tsptv.xyz:8888/tayo11/bus/221
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 9 ARAB
+http://tsptv.xyz:8888/tayo11/bus/222
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 10 ARAB
+http://tsptv.xyz:8888/tayo11/bus/253
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 11 ARAB
+http://tsptv.xyz:8888/tayo11/bus/254
+#EXTINF:-1 group-title="SPORTS", BEIN SPORTS 12 ARAB
+http://tsptv.xyz:8888/tayo11/bus/255
+#EXTINF:-1 group-title="SPORTS", NBA TV
+http://tsptv.xyz:8888/tayo11/bus/243
+#EXTINF:-1 group-title="SPORTS", REAL MADRID TV
+http://tsptv.xyz:8888/tayo11/bus/244
+#EXTINF:-1 group-title="SPORTS", WWE NETWORK
+http://tsptv.xyz:8888/tayo11/bus/299
+#EXTINF:-1 group-title="SPORTS", BT SPORTS 1
+http://tsptv.xyz:8888/tayo11/bus/319
+#EXTINF:-1 group-title="SPORTS", BT SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/320
+#EXTINF:-1 group-title="SPORTS", BT SPORTS 3
+http://tsptv.xyz:8888/tayo11/bus/321
+#EXTINF:-1 group-title="SPORTS", BT SPORTS ESPN
+http://tsptv.xyz:8888/tayo11/bus/399
+#EXTINF:-1 group-title="SPORTS", MUTV
+http://tsptv.xyz:8888/tayo11/bus/400
+#EXTINF:-1 group-title="SPORTS", CHELSEA TV
+http://tinyurl.com/yx8nd2md
+#EXTINF:-1 group-title="SPORTS", BEIN LALIGA
+http://tsptv.xyz:8888/tayo11/bus/416
+#EXTINF:-1 group-title="SPORTS", TENNIS
+http://tsptv.xyz:8888/tayo11/bus/482
+#EXTINF:-1 group-title="SPORTS", BOX NATION
+http://tsptv.xyz:8888/tayo11/bus/501
+#EXTINF:-1 group-title="SPORTS", FIGHT BOX
+http://tsptv.xyz:8888/tayo11/bus/499
+#EXTINF:-1 group-title="SPORTS", GOLF
+http://tsptv.xyz:8888/tayo11/bus/864
+#EXTINF:-1 group-title="SPORTS", CCTV 5
+http://tsptv.xyz:8888/tayo11/bus/595
+#EXTINF:-1 group-title="SPORTS", PPTV HD
+http://tsptv.xyz:8888/tayo11/bus/605
+#EXTINF:-1 group-title="SPORTS", TEN SPORTS
+http://tsptv.xyz:8888/tayo11/bus/619
+#EXTINF:-1 group-title="SPORTS", SONY TEN 2 SD
+http://tsptv.xyz:8888/tayo11/bus/621
+#EXTINF:-1 group-title="SPORTS", SONY TEN 3 SD
+http://tsptv.xyz:8888/tayo11/bus/623
+#EXTINF:-1 group-title="SPORTS", SKYNET SPORTS HD
+http://tsptv.xyz:8888/tayo11/bus/679
+#EXTINF:-1 group-title="SPORTS", SKYNET SPORTS 1
+http://tsptv.xyz:8888/tayo11/bus/1159
+#EXTINF:-1 group-title="SPORTS", SKYNET SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/1160
+#EXTINF:-1 group-title="SPORTS", SKYNET SPORTS 3
+http://tsptv.xyz:8888/tayo11/bus/1161
+#EXTINF:-1 group-title="SPORTS", SKYNET SPORTS 4
+http://tsptv.xyz:8888/tayo11/bus/1162
+#EXTINF:-1 group-title="SPORTS", FIGHT SPORTS
+http://tsptv.xyz:8888/tayo11/bus/784
+#EXTINF:-1 group-title="SPORTS", CCTV 5+
+http://tsptv.xyz:8888/tayo11/bus/814
+#EXTINF:-1 group-title="SPORTS", GOLF+
+http://tsptv.xyz:8888/tayo11/bus/1844
+#EXTINF:-1 group-title="SPORTS", ARENA SPORTS 1
+http://tsptv.xyz:8888/tayo11/bus/965
+#EXTINF:-1 group-title="SPORTS", ARENA SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/966
+#EXTINF:-1 group-title="SPORTS", ARENA SPORTS 3
+http://tsptv.xyz:8888/tayo11/bus/967
+#EXTINF:-1 group-title="SPORTS", ARENA SPORTS 4
+http://tsptv.xyz:8888/tayo11/bus/968
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 1
+http://tsptv.xyz:8888/tayo11/bus/1183
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/1184
+#EXTINF:-1 group-title="SPORTS", SETANTA SPORTS
+http://tsptv.xyz:8888/tayo11/bus/1199
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS
+http://tsptv.xyz:8888/tayo11/bus/51
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/102
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 3
+http://tsptv.xyz:8888/tayo11/bus/101
+#EXTINF:-1 group-title="SPORTS", ASTRO ARENA
+http://tsptv.xyz:8888/tayo11/bus/1486
+#EXTINF:-1 group-title="SPORTS", SKY SPORTS F1
+http://tsptv.xyz:8888/tayo11/bus/1507
+#EXTINF:-1 group-title="SPORTS", MNC SPORTS
+http://bit.ly/tspmncsports
+#EXTINF:-1 group-title="SPORTS", SPORTS ONE
+http://bit.ly/tspsportone
+#EXTINF:-1 group-title="SPORTS", TVRI SPORTS
+http://bit.ly/tsptvri4
+#EXTINF:-1 group-title="SPORTS", SUPER SOCCER TV
+http://bit.ly/tspsupersoccer
+#EXTINF:-1 group-title="SPORTS", ELEVEN SPORTS 1
+http://tsptv.xyz:8888/tayo11/bus/1537
+#EXTINF:-1 group-title="SPORTS", ELEVEN SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/1538
+#EXTINF:-1 group-title="SPORTS", TSB 1
+http://tsptv.xyz:8888/tayo11/bus/1835
+#EXTINF:-1 group-title="SPORTS", TSB 2
+http://tsptv.xyz:8888/tayo11/bus/1836
+#EXTINF:-1 group-title="SPORTS", TSB 3
+http://tsptv.xyz:8888/tayo11/bus/1542
+#EXTINF:-1 group-title="SPORTS", TSB 4
+http://tsptv.xyz:8888/tayo11/bus/1543
+#EXTINF:-1 group-title="SPORTS", ON CHANNEL
+http://tsptv.xyz:8888/tayo11/bus/1846
+#EXTINF:-1 group-title="SPORTS", MLB NETWORK
+http://tinyurl.com/yy9vr25e
+#EXTINF:-1 group-title="SPORTS", EDGE SPORTS
+http://tinyurl.com/yxhoj3l5
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 506
+http://45.58.62.92:8080
+#EXTINF:-1 group-title="SPORTS", SPORTS RACE
+http://45.58.62.92:8082
+#EXTINF:-1 group-title="SPORTS", EUROSPORTS 1
+https://1.ip2stream.icu/live/euroSPORTS_1_hd/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS", EUROSPORTS 2
+https://1.ip2stream.icu/live/euroSPORTS_2_hd/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS", SBS GOLF
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", ESPN US
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 group-title="SPORTS", ACTION SPORTS
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", REDBULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8 
+
+
+#EXTINF:-1 group-title="KNOWLEDGE", NATGEO CHANNEL HD
+http://tsptv.xyz:8888/tayo11/bus/96
+#EXTINF:-1 group-title="KNOWLEDGE", NATGEO WILD HD
+http://tsptv.xyz:8888/tayo11/bus/97
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY CHANNEL HD
+http://tsptv.xyz:8888/tayo11/bus/165
+#EXTINF:-1 group-title="KNOWLEDGE", CRIME INVESTIGATION
+http://tsptv.xyz:8888/tayo11/bus/332
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY SHED
+http://tsptv.xyz:8888/tayo11/bus/333
+#EXTINF:-1 group-title="KNOWLEDGE", ANIMAL PLANET HD
+http://tsptv.xyz:8888/tayo11/bus/358
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY SCIENCE
+http://tsptv.xyz:8888/tayo11/bus/408
+#EXTINF:-1 group-title="KNOWLEDGE", SONY BBC EARTH
+http://tsptv.xyz:8888/tayo11/bus/385
+#EXTINF:-1 group-title="KNOWLEDGE", NATGEO PEOPLE HD
+http://tsptv.xyz:8888/tayo11/bus/455
+#EXTINF:-1 group-title="KNOWLEDGE", HISTORY HD
+http://tsptv.xyz:8888/tayo11/bus/718
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY TURBO
+http://tsptv.xyz:8888/tayo11/bus/462
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY ASIA
+http://tsptv.xyz:8888/tayo11/bus/779
+#EXTINF:-1 group-title="KNOWLEDGE", LOVE NATURE
+http://tsptv.xyz:8888/tayo11/bus/1852
+
+
+#EXTINF:-1 group-title="KIDS", ANIPLUS
+http://tsptv.xyz:8888/tayo11/bus/2
+#EXTINF:-1 group-title="KIDS", ANIMAX
+http://tsptv.xyz:8888/tayo11/bus/3
+#EXTINF:-1 group-title="KIDS", DISNEY XD
+http://tsptv.xyz:8888/tayo11/bus/104
+#EXTINF:-1 group-title="KIDS", DISNEY JR
+http://tsptv.xyz:8888/tayo11/bus/213
+#EXTINF:-1 group-title="KIDS", NICKELODEON
+http://tsptv.xyz:8888/tayo11/bus/252
+#EXTINF:-1 group-title="KIDS", BABY TV
+http://tsptv.xyz:8888/tayo11/bus/296
+#EXTINF:-1 group-title="KIDS", BABY FIRST
+http://tsptv.xyz:8888/tayo11/bus/1204
+#EXTINF:-1 group-title="KIDS", BOOMERANG
+http://tsptv.xyz:8888/tayo11/bus/305
+#EXTINF:-1 group-title="KIDS", DISNEY CHANNEL
+http://tsptv.xyz:8888/tayo11/bus/306
+#EXTINF:-1 group-title="KIDS", NICKTOON
+http://tsptv.xyz:8888/tayo11/bus/335
+#EXTINF:-1 group-title="KIDS", NICK JR
+http://tsptv.xyz:8888/tayo11/bus/341
+#EXTINF:-1 group-title="KIDS", CBEEBIES
+http://tsptv.xyz:8888/tayo11/bus/491
+#EXTINF:-1 group-title="KIDS", NICK JR
+http://tsptv.xyz:8888/tayo11/bus/522
+#EXTINF:-1 group-title="KIDS", CARTOON NETWORK
+http://tsptv.xyz:8888/tayo11/bus/680
+#EXTINF:-1 group-title="KIDS", DUNIA ANAK
+http://tsptv.xyz:8888/tayo11/bus/907
+#EXTINF:-1 group-title="KIDS", DREAMWORK
+http://tsptv.xyz:8888/tayo11/bus/936
+#EXTINF:-1 group-title="KIDS", NICKELODEON
+http://tsptv.xyz:8888/tayo11/bus/962
+#EXTINF:-1 group-title="KIDS", TOONMAX
+http://tsptv.xyz:8888/tayo11/bus/1116
+#EXTINF:-1 group-title="KIDS", BABY FIRST
+http://tsptv.xyz:8888/tayo11/bus/1204
+#EXTINF:-1 group-title="KIDS", SPACETOON
+http://tsptv.xyz:8888/tayo11/bus/1541
+#EXTINF:-1 group-title="KIDS", HORE
+http://tsptv.xyz:8888/tayo11/bus/1633
+#EXTINF:-1 group-title="KIDS", DUCK TV
+http://tsptv.xyz:8888/tayo11/bus/1854
+#EXTINF:-1 group-title="KIDS", ANIME 24/7
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="KIDS", DRAGON BALL 24/7
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:-1 group-title="KIDS", NARUTO SHIPPUDEN 24/7
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:-1 group-title="KIDS", DORAEMON 24/7
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+
+
+#EXTINF:-1 group-title="VARIETY", TLC
+http://tsptv.xyz:8888/tayo11/bus/351
+#EXTINF:-1 group-title="VARIETY", TLC HD
+http://tsptv.xyz:8888/tayo11/bus/352
+#EXTINF:-1 group-title="VARIETY", DMAX
+http://tsptv.xyz:8888/tayo11/bus/483
+#EXTINF:-1 group-title="VARIETY", HGTV
+http://tsptv.xyz:8888/tayo11/bus/537
+#EXTINF:-1 group-title="VARIETY", FOOD NETWORK
+http://tsptv.xyz:8888/tayo11/bus/625
+#EXTINF:-1 group-title="VARIETY", WAKU WAKU JAPAN
+http://tsptv.xyz:8888/tayo11/bus/1495
+#EXTINF:-1 group-title="VARIETY", NHK WORLD JAPAN
+http://tsptv.xyz:8888/tayo11/bus/785
+#EXTINF:-1 group-title="VARIETY", TV 5 MONDE
+http://tsptv.xyz:8888/tayo11/bus/786
+#EXTINF:-1 group-title="VARIETY", MONDE STYLE
+http://tsptv.xyz:8888/tayo11/bus/794
+#EXTINF:-1 group-title="VARIETY", AFC
+http://tsptv.xyz:8888/tayo11/bus/807
+#EXTINF:-1 group-title="VARIETY", EGG NETWORK
+http://tsptv.xyz:8888/tayo11/bus/921
+#EXTINF:-1 group-title="VARIETY", BLUE ANT EXTREME
+http://tsptv.xyz:8888/tayo11/bus/1506
+#EXTINF:-1 group-title="VARIETY", SBS AUSTRALIA
+http://tsptv.xyz:8888/tayo11/bus/1847
+#EXTINF:-1 group-title="VARIETY", SBS FOOD
+http://tsptv.xyz:8888/tayo11/bus/1848
+#EXTINF:-1 group-title="VARIETY", SBS VICELAND
+http://tsptv.xyz:8888/tayo11/bus/1849
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT", DUNIA LAIN
+http://tsptv.xyz:8888/tayo11/bus/910
+#EXTINF:-1 group-title="ENTERTAINMENT", INSERT
+http://tsptv.xyz:8888/tayo11/bus/1763
+#EXTINF:-1 group-title="ENTERTAINMENT", FOODIE
+http://tsptv.xyz:8888/tayo11/bus/1505
+#EXTINF:-1 group-title="ENTERTAINMENT", FASHION TV
+http://tsptv.xyz:8888/tayo11/bus/280
+#EXTINF:-1 group-title="ENTERTAINMENT", E!
+http://tsptv.xyz:8888/tayo11/bus/490
+#EXTINF:-1 group-title="ENTERTAINMENT", BBC ENTERTAINMENT
+http://85.244.70.140:7000/play/a00u
+
+
+#EXTINF:-1 group-title="RELIGI", MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="RELIGI", SALING SAPA
+http://tsptv.xyz:8888/tayo11/bus/606
+#EXTINF:-1 group-title="RELIGI", NU CHANNEL
+http://tsptv.xyz:8888/tayo11/bus/611
+#EXTINF:-1 group-title="RELIGI", RODJA TV
+http://tsptv.xyz:8888/tayo11/bus/843
+#EXTINF:-1 group-title="RELIGI", MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="RELIGI", AKHYAR TV
+http://tsptv.xyz:8888/tayo11/bus/941
+#EXTINF:-1 group-title="RELIGI", ASWAJA
+http://tsptv.xyz:8888/tayo11/bus/944
+#EXTINF:-1 group-title="RELIGI", TV9 SURABAYA
+http://tsptv.xyz:8888/tayo11/bus/950
+#EXTINF:-1 group-title="RELIGI", WESAL TV
+http://tsptv.xyz:8888/tayo11/bus/951
+#EXTINF:-1 group-title="RELIGI", ASHIL TV
+http://tsptv.xyz:8888/tayo11/bus/1503
+#EXTINF:-1 group-title="RELIGI", REFORMED 21
+http://tsptv.xyz:8888/tayo11/bus/1208
+
+
+#EXTINF:-1 group-title="NEWS", CNN INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/44
+#EXTINF:-1 group-title="NEWS", ALJAZEERA ENGLISH
+http://tsptv.xyz:8888/tayo11/bus/89
+#EXTINF:-1 group-title="NEWS", BERITA SATU NEWS
+http://tsptv.xyz:8888/tayo11/bus/136
+#EXTINF:-1 group-title="NEWS", BLOOMBERG TV ASIA
+http://tsptv.xyz:8888/tayo11/bus/137
+#EXTINF:-1 group-title="NEWS", DW TV ASIA
+http://tsptv.xyz:8888/tayo11/bus/205
+#EXTINF:-1 group-title="NEWS", FRANCE 24
+http://tsptv.xyz:8888/tayo11/bus/787
+#EXTINF:-1 group-title="NEWS", BLOOMBERG
+http://tsptv.xyz:8888/tayo11/bus/788
+#EXTINF:-1 group-title="NEWS", BBC WORLD NEWS
+http://tsptv.xyz:8888/tayo11/bus/789
+#EXTINF:-1 group-title="NEWS", CHANNEL NEWS ASIA
+http://tsptv.xyz:8888/tayo11/bus/1191
+#EXTINF:-1 group-title="NEWS", CNBC INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/1512
+#EXTINF:-1 group-title="NEWS", CNN INTERNATIONAL
+http://tsptv.xyz:8888/tayo11/bus/1200
+
+
+#EXTINF:-1 group-title="MUSIC", TRACE URBAN
+http://tsptv.xyz:8888/tayo11/bus/106
+#EXTINF:-1 group-title="MUSIC", TRACE AFRICA
+http://tsptv.xyz:8888/tayo11/bus/108
+#EXTINF:-1 group-title="MUSIC", TRACE MIZKI
+http://tsptv.xyz:8888/tayo11/bus/109
+#EXTINF:-1 group-title="MUSIC", TRACE TOCA
+http://tsptv.xyz:8888/tayo11/bus/111
+#EXTINF:-1 group-title="MUSIC", TRACE TROPICAL
+http://tsptv.xyz:8888/tayo11/bus/112
+#EXTINF:-1 group-title="MUSIC", TRACE NAIJA
+http://tsptv.xyz:8888/tayo11/bus/113
+#EXTINF:-1 group-title="MUSIC", MTV
+http://tsptv.xyz:8888/tayo11/bus/281
+#EXTINF:-1 group-title="MUSIC", MTV MUSIC
+http://tsptv.xyz:8888/tayo11/bus/286
+#EXTINF:-1 group-title="MUSIC", MTV HITS
+http://tsptv.xyz:8888/tayo11/bus/287
+#EXTINF:-1 group-title="MUSIC", MTV DANCE
+http://tsptv.xyz:8888/tayo11/bus/288
+#EXTINF:-1 group-title="MUSIC", MTV CLASSIC
+http://tsptv.xyz:8888/tayo11/bus/289
+#EXTINF:-1 group-title="MUSIC", MTV BASE
+http://tsptv.xyz:8888/tayo11/bus/291
+#EXTINF:-1 group-title="MUSIC", CHANNEL V
+http://tsptv.xyz:8888/tayo11/bus/766
+#EXTINF:-1 group-title="MUSIC", DANGDUTZ
+http://tsptv.xyz:8888/tayo11/bus/883
+#EXTINF:-1 group-title="MUSIC", T MUSIC
+http://tsptv.xyz:8888/tayo11/bus/905
+#EXTINF:-1 group-title="MUSIC", PRAMBORS
+http://tsptv.xyz:8888/tayo11/bus/906
+#EXTINF:-1 group-title="MUSIC", MIX
+http://tsptv.xyz:8888/tayo11/bus/1157
+#EXTINF:-1 group-title="MUSIC", KARAOKE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+
+#EXTINF:-1 group-title="KOREAN", KPLUS
+http://tsptv.xyz:8888/tayo11/bus/18
+#EXTINF:-1 group-title="KOREAN", TVN
+http://tsptv.xyz:8888/tayo11/bus/767
+#EXTINF:-1 group-title="KOREAN", SONY ONE
+http://tsptv.xyz:8888/tayo11/bus/19
+#EXTINF:-1 group-title="KOREAN", SONY GEM
+http://tsptv.xyz:8888/tayo11/bus/770
+#EXTINF:-1 group-title="KOREAN", TVN MOVIES
+http://tsptv.xyz:8888/tayo11/bus/927
+#EXTINF:-1 group-title="KOREAN", SBS IN
+http://tsptv.xyz:8888/tayo11/bus/1202
+#EXTINF:-1 group-title="KOREAN", KBS WORLD
+http://tsptv.xyz:8888/tayo11/bus/1521
+#EXTINF:-1 group-title="KOREAN", OH!K
+http://tsptv.xyz:8888/tayo11/bus/915
+#EXTINF:-1 group-title="KOREAN", K DRAMA
+http://tsptv.xyz:8888/tayo11/bus/1699
+
+
+#EXTINF:-1 group-title="ASTRO", ASTRO SUPERSPORTS 1
+http://tsptv.xyz:8888/tayo11/bus/882
+#EXTINF:-1 group-title="ASTRO", ASTRO SUPERSPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/892
+#EXTINF:-1 group-title="ASTRO", ASTRO SUPERSPORTS 3
+http://tsptv.xyz:8888/tayo11/bus/893
+#EXTINF:-1 group-title="ASTRO", ASTRO SUPERSPORTS 4
+http://tsptv.xyz:8888/tayo11/bus/894
+#EXTINF:-1 group-title="ASTRO", RTM 1
+http://tsptv.xyz:8888/tayo11/bus/1728
+#EXTINF:-1 group-title="ASTRO", RTM 2
+http://tsptv.xyz:8888/tayo11/bus/1729
+#EXTINF:-1 group-title="ASTRO", TV OKEY
+http://tsptv.xyz:8888/tayo11/bus/1730
+#EXTINF:-1 group-title="ASTRO", ASTRO WAH LAI TOI
+http://tsptv.xyz:8888/tayo11/bus/916
+#EXTINF:-1 group-title="ASTRO", ASTRO XI YUE
+http://tsptv.xyz:8888/tayo11/bus/917
+#EXTINF:-1 group-title="ASTRO", ASTRO XUAN SHING
+http://tsptv.xyz:8888/tayo11/bus/918
+#EXTINF:-1 group-title="ASTRO", ASTRO QUAN JIA
+http://tsptv.xyz:8888/tayo11/bus/919
+#EXTINF:-1 group-title="ASTRO", ASTRO HUA HEE DAI
+http://tsptv.xyz:8888/tayo11/bus/920
+#EXTINF:-1 group-title="ASTRO", ASTRO AEC
+http://tsptv.xyz:8888/tayo11/bus/922
+#EXTINF:-1 group-title="ASTRO", ASTRO BOLLYONE
+http://tsptv.xyz:8888/tayo11/bus/923
+#EXTINF:-1 group-title="ASTRO", ASTRO TARA
+http://tsptv.xyz:8888/tayo11/bus/924
+#EXTINF:-1 group-title="ASTRO", ASTRO RIA
+http://tsptv.xyz:8888/tayo11/bus/925
+#EXTINF:-1 group-title="ASTRO", ASTRO WARNA
+http://tsptv.xyz:8888/tayo11/bus/1197
+#EXTINF:-1 group-title="ASTRO", ASTRO HELLO
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+#EXTINF:-1 group-title="ASTRO", ASTRO AWANI Back Up
+http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+#EXTINF:-1 group-title="ASTRO", ASTRO VAANAVIL
+http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+#EXTINF:-1 group-title="ASTRO", ASTRO CERIA
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
+
+
+#EXTINF:-1 group-title="ASIA", TVBS HD
+http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
+#EXTINF:-1 group-title="ASIA", CH 3 FAMILY
+http://ch3-13.cdn.byteark.comlive/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ASIA", MYTV
+http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
+#EXTINF:-1 group-title="ASIA", CNC
+http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
+#EXTINF:-1 group-title="ASIA", CTN
+http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
+#EXTINF:-1 group-title="ASIA", TV TOKYO
+http://203.162.235.41:16908
+#EXTINF:-1 group-title="ASIA", WOWOW LIVE
+http://203.162.235.41:16916
+#EXTINF:-1 group-title="ASIA", TV ASAHI
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+#EXTINF:-1 group-title="ASIA", PPTV HD
+http://183.182.100.184/live/pptvthai/index.m3u8
+#EXTINF:-1 group-title="ASIA", THAI CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1 group-title="ASIA", BRIGHT TV
+http:/live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
+#EXTINF:-1 group-title="ASIA", THAI CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 group-title="ASIA", CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 group-title="ASIA", MCOT HD
+http://183.182.100.184/live/mcothd/index.m3u8
+#EXTINF:-1 group-title="ASIA", THAI CH5
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA", WORKPOINT
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
+
+
+#EXTINF:-1 group-title="BOLA INDO", LIGA SHOPEE 1
+http://tsptv.xyz:8888/tayo11/bus/1185
+#EXTINF:-1 group-title="BOLA INDO", LIGA SHOPEE 2
+http://tsptv.xyz:8888/tayo11/bus/1719
+#EXTINF:-1 group-title="BOLA INDO", LIGA 2
+http://tsptv.xyz:8888/tayo11/bus/1719
+#EXTINF:-1 group-title="BOLA INDO", LIGA SHOPEE INDOSIAR
+http://tsptv.xyz:8888/tayo11/bus/33
+#EXTINF:-1 group-title="BOLA INDO", PIALA INDONESIA
+http://tsptv.xyz:8888/tayo11/bus/1720
+
+
+#EXTINF:-1 group-title="VOD", AQUAMAN
+http://tsptv.xyz:8888/movie/tayo11/bus/1471.mp4
+#EXTINF:-1 group-title="VOD", AVENGER AGE OF ULTRON
+http://tsptv.xyz:8888/movie/tayo11/bus/1550.mkv
+#EXTINF:-1 group-title="VOD", AVENGER INFINITY WAR
+http://tsptv.xyz:8888/movie/tayo11/bus/1551.mp4
+#EXTINF:-1 group-title="VOD", ANTMAN AND THE WASP
+http://tsptv.xyz:8888/movie/tayo11/bus/1582.mp4
+#EXTINF:-1 group-title="VOD", ASSASIN CREED
+http://tsptv.xyz:8888/movie/tayo11/bus/1585.mp4
+#EXTINF:-1 group-title="VOD", AVENGER ENDGAME
+http://tsptv.xyz:8888/movie/tayo11/bus/1606.mkv
+#EXTINF:-1 group-title="VOD", ARCTIC
+http://tsptv.xyz:8888/movie/tayo11/bus/1570.mp4
+#EXTINF:-1 group-title="VOD", SLENDERMAN
+http://tsptv.xyz:8888/movie/tayo11/bus/1554.mp4
+#EXTINF:-1 group-title="VOD", SMALFOOT
+http://tsptv.xyz:8888/movie/tayo11/bus/1629.mp4
+#EXTINF:-1 group-title="VOD", SEBELUM IBLIS MENJEMPUT
+http://tsptv.xyz:8888/movie/tayo11/bus/1668.mp4
+#EXTINF:-1 group-title="VOD", SI DOEL THE MOVIE
+http://tsptv.xyz:8888/movie/tayo11/bus/1664.mp4
+#EXTINF:-1 group-title="VOD", PASSENGER
+http://tsptv.xyz:8888/movie/tayo11/bus/1465.mp4
+#EXTINF:-1 group-title="VOD", TOMB RAIDER
+http://tsptv.xyz:8888/movie/tayo11/bus/1555.mp4
+#EXTINF:-1 group-title="VOD", THE NUN
+http://tsptv.xyz:8888/movie/tayo11/bus/1602.mp4
+#EXTINF:-1 group-title="VOD", THE GRINCH
+http://tsptv.xyz:8888/movie/tayo11/bus/1601.mp4
+#EXTINF:-1 group-title="VOD", THOR RAGNAROK
+http://tsptv.xyz:8888/movie/tayo11/bus/1603.mp4
+#EXTINF:-1 group-title="VOD", THE MUMMY
+http://tsptv.xyz:8888/movie/tayo11/bus/1628.mp4
+#EXTINF:-1 group-title="VOD", DEAD POOL
+http://tsptv.xyz:8888/movie/tayo11/bus/1558.mp4
+#EXTINF:-1 group-title="VOD", DEAD POOL 2
+http://tsptv.xyz:8888/movie/tayo11/bus/1559.mp4
+#EXTINF:-1 group-title="VOD", DILAN 1990
+http://tsptv.xyz:8888/movie/tayo11/bus/1661.mp4
+#EXTINF:-1 group-title="VOD", DANUR 2 MADDAH
+http://tsptv.xyz:8888/movie/tayo11/bus/1666.mp4
+#EXTINF:-1 group-title="VOD", CAPTAIN AMERICA - CIVIL WAR
+http://tsptv.xyz:8888/movie/tayo11/bus/1579.mp4
+#EXTINF:-1 group-title="VOD", CAPTAIN AMERICA - THE WINTER SOLDIER
+http://tsptv.xyz:8888/movie/tayo11/bus/1581.mp4
+#EXTINF:-1 group-title="VOD", CAPTAIN AMERICA - THE FIRST AVENGER
+http://tsptv.xyz:8888/movie/tayo11/bus/1580.mp4
+#EXTINF:-1 group-title="VOD", BUMBLE BEE
+http://tsptv.xyz:8888/movie/tayo11/bus/1470.mp4
+#EXTINF:-1 group-title="VOD", BEAUTY AND THE BEAST
+http://tsptv.xyz:8888/movie/tayo11/bus/1653.mp4
+#EXTINF:-1 group-title="VOD", INCREDIBLES 2
+http://tsptv.xyz:8888/movie/tayo11/bus/1591.mp4
+#EXTINF:-1 group-title="VOD", INTERSTELLAR
+http://tsptv.xyz:8888/movie/tayo11/bus/1617.mp4
+#EXTINF:-1 group-title="VOD", EARLY MAN
+http://tsptv.xyz:8888/movie/tayo11/bus/1587.mp4
+#EXTINF:-1 group-title="VOD", JUMANJI - WELCOME TO THE JUNGLE
+http://tsptv.xyz:8888/movie/tayo11/bus/1619.mp4
+#EXTINF:-1 group-title="VOD", JURASSIC WORLD - FALLEN KINGDOM
+http://tsptv.xyz:8888/movie/tayo11/bus/1621.mp4
+#EXTINF:-1 group-title="VOD", JOHNNY ENGLISH STRIKE AGAIN
+http://tsptv.xyz:8888/movie/tayo11/bus/1631.mp4
+#EXTINF:-1 group-title="VOD", JAILANGKUNG 2
+http://tsptv.xyz:8888/movie/tayo11/bus/1665.mp4
+#EXTINF:-1 group-title="VOD", WAR FOR THE PLANET OF THE APES
+http://tsptv.xyz:8888/movie/tayo11/bus/1626.mp4
+#EXTINF:-1 group-title="VOD", VENOM
+http://tsptv.xyz:8888/movie/tayo11/bus/1578.mp4
+
+
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S07 E01
+http://tsptv.xyz:8888/series/tayo11/bus/1545.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S07 E02
+http://tsptv.xyz:8888/series/tayo11/bus/1546.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S07 E03
+http://tsptv.xyz:8888/series/tayo11/bus/1547.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S08 E01
+http://tsptv.xyz:8888/series/tayo11/bus/1531.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S08 E02
+http://tsptv.xyz:8888/series/tayo11/bus/1540.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S08 E03
+http://tsptv.xyz:8888/series/tayo11/bus/1544.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S08 E04
+http://tsptv.xyz:8888/series/tayo11/bus/1695.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S08 E05
+http://tsptv.xyz:8888/series/tayo11/bus/1717.mp4
+#EXTINF:-1 group-title="TV SERIES", GAME OF THRONES S08 E06
+http://tsptv.xyz:8888/series/tayo11/bus/1725.mp4
+
+
+#EXTINF:-1 group-title="LIVE EVENT", ICC CUP 2019 1
+http://183.182.100.184/live/pptvthai/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", ICC CUP 2019 2
+http://203.153.218.26:9981/stream/channelid/1637650880
+#EXTINF:-1 group-title="LIVE EVENT", EPL ASIAN TROPHY
+http://tsptv.xyz:8888/tayo11/bus/
+#EXTINF:-1 group-title="LIVE EVENT", PIALA AFRIKA
+http://tsptv.xyz:8888/tayo11/bus/729
+#EXTINF:-1 group-title="LIVE EVENT", F1 (1)
+http://tsptv.xyz:8888/tayo11/bus/1507
+#EXTINF:-1 group-title="LIVE EVENT", F1 (2)
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", TENNIS WIMBLEDON
+http://tsptv.xyz:8888/tayo11/bus/482
+#EXTINF:-1 group-title="LIVE EVENT", WWE RAW EVENT
+http://tsptv.xyz:8888/tayo11/bus/299
+#EXTINF:-1 group-title="LIVE EVENT", WWE SMACKDOWN EVENT
+http://tsptv.xyz:8888/tayo11/bus/299
+#EXTINF:-1 group-title="LIVE EVENT", MOTO GP 1
+http://tsptv.xyz:8888/tayo11/bus/51
+#EXTINF:-1 group-title="LIVE EVENT", MOTO GP 2
+http://tsptv.xyz:8888/tayo11/bus/605
+#EXTINF:-1 group-title="LIVE EVENT", BWF INDONESIA OPEN 1
+http://tsptv.xyz:8888/tayo11/bus/35
+#EXTINF:-1 group-title="LIVE EVENT", BWF INDONESIA OPEN 2
+http://tsptv.xyz:8888/tayo11/bus/1542
+#EXTINF:-1 group-title="LIVE EVENT", BWF INDONESIA OPEN 3
+http://tsptv.xyz:8888/tayo11/bus/1543
+
+
+#EXTINF:-1 group-title="BACK UP", GTV 
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 group-title="BACK UP", INDOSIAR 
+http://bit.ly/tspindosid
+#EXTINF:-1 group-title="BACK UP", SCTV 
+http://bit.ly/tspsctvid
+#EXTINF:-1 group-title="BACK UP", MNCTV 
+http://bit.ly/tspmnctvid
+#EXTINF:-1 group-title="BACK UP", ANTV 
+http://bit.ly/2UagFku
+#EXTINF:-1 group-title="BACK UP", TRANS7 
+http://bit.ly/tspt7id
+#EXTINF:-1 group-title="BACK UP", TRANSTV 
+http://bit.ly/tspttvid
+#EXTINF:-1 group-title="BACK UP", NET 
+http://bit.ly/tspnetid
+#EXTINF:-1 group-title="BACK UP", NET HD 
+http://bit.ly/tspnethd
+#EXTINF:-1 group-title="BACK UP", RTV 
+http://bit.ly/tsprtvid
+#EXTINF:-1 group-title="BACK UP", METRO TV 
+http://bit.ly/tspmetroid
+#EXTINF:-1 group-title="BACK UP", METRO TV HD 
+http://bit.ly/tspmetrohd
+#EXTINF:-1 group-title="BACK UP", TVONE 
+http://bit.ly/tsptv1id
+#EXTINF:-1 group-title="BACK UP", KOMPAS TV 
+http://bit.ly/tspkomid
+#EXTINF:-1 group-title="BACK UP", BEIN 1 INDO
+http://tsptv.xyz:8888/tayo11/bus/1855
+#EXTINF:-1 group-title="BACK UP", BEIN 2 INDO
+http://tsptv.xyz:8888/tayo11/bus/1856
+#EXTINF:-1 group-title="BACK UP", BEIN 3 INDO
+http://tsptv.xyz:8888/tayo11/bus/1857
+#EXTINF:-1 group-title="BACK UP", FOX SPORTS
+http://tsptv.xyz:8888/tayo11/bus/1475
+#EXTINF:-1 group-title="BACK UP", FOX SPORTS 2
+http://tsptv.xyz:8888/tayo11/bus/1476
+#EXTINF:-1 group-title="BACK UP", FOX SPORTS 3
+http://tsptv.xyz:8888/tayo11/bus/1477
+#EXTINF:-1 group-title="BACK UP", FOX BACK UP
+http://tsptv.xyz:8888/tayo11/bus/978
+#EXTINF:-1 group-title="BACK UP", FOX ACTION
+http://tsptv.xyz:8888/tayo11/bus/979
+#EXTINF:-1 group-title="BACK UP", FOX FAMILY
+http://tsptv.xyz:8888/tayo11/bus/1943
+#EXTINF:-1 group-title="BACK UP", FOX CRIME
+http://tsptv.xyz:8888/tayo11/bus/1483
+#EXTINF:-1 group-title="BACK UP", FOX
+http://tsptv.xyz:8888/tayo11/bus/1530
+#EXTINF:-1 group-title="BACK UP", HBO HD
+http://tsptv.xyz:8888/tayo11/bus/1496
+#EXTINF:-1 group-title="BACK UP", HBO HITS
+http://tsptv.xyz:8888/tayo11/bus/1528
+#EXTINF:-1 group-title="BACK UP", HBO FAMILY
+http://tsptv.xyz:8888/tayo11/bus/1529
+#EXTINF:-1 group-title="BACK UP", HBO SIGNATURE
+http://tsptv.xyz:8888/tayo11/bus/1498
+#EXTINF:-1 group-title="BACK UP", KIX
+http://rr.dens.tv/h/h07/index.m3u8
+#EXTINF:-1 group-title="BACK UP", ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="BACK UP", THRILL
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="BACK UP", CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="BACK UP", NATGEO CHANNEL
+http://tsptv.xyz:8888/tayo11/bus/1445
+#EXTINF:-1 group-title="BACK UP", NATGEO WILD
+http://tsptv.xyz:8888/tayo11/bus/1446
+#EXTINF:-1 group-title="BACK UP", NATGEO PEOPLE
+http://tsptv.xyz:8888/tayo11/bus/1447
+#EXTINF:-1 group-title="BACK UP", WARNER TV
+http://tsptv.xyz:8888/tayo11/bus/1858
+#EXTINF:-1 group-title="BACK UP", CINEMAX
+http://tsptv.xyz:8888/tayo11/bus/1354
+#EXTINF:-1 group-title="BACK UP", E!
+http://45.126.83.51/uq2663/h/h10/01.m3u8
+#EXTINF:-1 group-title="BACK UP", SPACETOON
+http://210.210.155.35/session/bd8b863e-6c13-11e9-b7f4-b4ffa8020f8b/x6bnqe/s/s80/index2.m3u8
+#EXTINF:-1 group-title="BACK UP", CNN Indo Back Up
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="XXX", ADULT 1
+http://tinyurl.com/y4y6u69y
+#EXTINF:-1 group-title="XXX", ADULT 2
+http://bit.ly/tspjasminehd
+#EXTINF:-1 group-title="XXX", ADULT 3
+http://tinyurl.com/y6ndz2tu
+#EXTINF:-1 group-title="XXX", ADULT 4
+http://tinyurl.com/yyupljst
+#EXTINF:-1 group-title="XXX", ADULT 5
+http://tinyurl.com/yxs87bcn
+#EXTINF:-1 group-title="XXX", ADULT 6
+http://tinyurl.com/y6mp3h2e
+#EXTINF:-1 group-title="XXX", ADULT 7
+http://tinyurl.com/y6bbxxtx
+#EXTINF:-1 group-title="XXX", ADULT 8
+http://tinyurl.com/y4c7e26c
+#EXTINF:-1 group-title="XXX", ADULT 9
+http://tinyurl.com/y6kuhqqs
+#EXTINF:-1 group-title="XXX", ADULT 10
+http://tinyurl.com/y3aq83pe
+#EXTINF:-1 group-title="XXX", ADULT 11
+http://tinyurl.com/y4f8b6jq
+#EXTINF:-1 group-title="XXX", ADULT 12
+http://tinyurl.com/yyskfpyv
+#EXTINF:-1 group-title="XXX", ADULT 13
+http://tinyurl.com/y6dphw6m
+#EXTINF:-1 group-title="XXX", VOD ADULT 1
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCastingFrancais%5D.PD.Kimberly.-.Spread.that.newbie.pussy.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 2
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.Alissa.(05.07.2018).iptvtalk.avi.mp4/chunklist_w1869303141.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 3
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BEroticaX%5D.Lily.Labeau.-.Tighter.Love.(31.01.2018).iptvtalk.avi.mp4/chunklist_w1155326263.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 4
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDirtyWivesClub%5D.Ashly.Anderson.(31.01.2018).iptvtalk.avi.mp4/media_w1240350018_0.ts
+#EXTINF:-1 group-title="XXX", VOD ADULT 5
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BThisGirlSucks%5D.Rina.Ellis.-.Suckin.Over.Fuckin.(27.12.2017).iptvtalk.avi.mp4/chunklist_w1439970448.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 6
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BImmoralLive%5D.Lana.Rhoades.(21.12.2017).iptvtalk.avi.mp4/chunklist_w911932368.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 7
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKarups%5D.Lexi.Foxy.-.The.Accidental.Spy.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 8
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKarups%5D.Lexi.Foxy.-.The.Accidental.Spy.(16.02.2018).iptvtalk.avi.mp4/media_w509410676_0.ts
+#EXTINF:-1 group-title="XXX", VOD ADULT 9
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKellyMadison%5D.Kendra.Spade.-.Up.My.Ass!.(16.02.2018).iptvtalk.avi.mp4/chunklist_w409558717.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 10
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKellyMadison%5D.Kendra.Spade.-.Up.My.Ass!.(16.02.2018).iptvtalk.avi.mp4/media_w409558717_0.ts
+#EXTINF:-1 group-title="XXX", VOD ADULT 11
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Kenzie.Reeves.-.Anal.Confession.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 12
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Kenzie.Reeves.-.Anal.Confession.(31.01.2018).iptvtalk.avi.mp4/chunklist_w1547718761.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 13
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Kenzie.Reeves.-.Anal.Confession.(31.01.2018).iptvtalk.avi.mp4/media_w1547718761_0.ts
+#EXTINF:-1 group-title="XXX", VOD ADULT 14
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BThisGirlSucks%5D.Victoria.June.-.Luscious.Dick.Sucking.Lips.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 15
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Adreena.Winters.GIO550.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 16
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKarups%5D.Suzy.Rainbow.-.Special.Massage.(14.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 17
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFirstTimeAuditions%5D.Victoria.Gracen.-.Sexy.Secrets.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 18
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.Ana.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 19
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5B21FootArt%5D.Vanessa.Decker.-.Tasty.Feet.(14.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 20
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTakeVan%5D.Bitch.in.stockings.fails.to.resist.the.cock.(05.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 21
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Bella.Rose.-.Rose.Love.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 22
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Abella.Danger.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 23
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Loren.Minardi.5on1.SZ1894.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 24
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Loren.Minardi.5on1.SZ1894.(06.03.2018).iptvtalk.avi.mp4/chunklist_w1369241286.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 25
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKinkyFamily%5D.Lily.Rader.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", IBIZA TV
+http://111.221.44.148:19410/live/minal/aidzin/1.ts
+#EXTINF:-1 group-title="XXX", VOD ADULT 26
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPureTaboo%5D.Kenna.James.-.Peeping.Tom.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 27
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCastingFrancais%5D.PD.Kimberly.-.Spread.that.newbie.pussy.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 28
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTrenchcoatX%5D.Bree.Daniels.-.The.Plumber.(04.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 29
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHardX%5D.Mia.Malkova.DP.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 30
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.19.Years.Old.-.Vanna.(21.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 31
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigTitCreamPie%5D.Brandi.Bae.Begs.For.a.Creampie.(21.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 32
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGFRevenge%5D.Bailey.Bradshaw,.Candy.-.Bailey.Loves.Candy.(24.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 33
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCumLouder%5D.Paola.Guerra.-.Room.SeXvice.(23.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 34
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGloryHole-Initiations%5D.Nia.Nacci.(14.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 35
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BShareMyBF%5D.Alexa.Grace,.Natalia.Starr.-.Blonde.Swingers.Threesome.(25.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 36
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlacksOnBlondes%5D.Nina.North.(23.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 37
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWoodmanCastingX%5D.Sade.Rose.(Casting.X.174.Updated.-.05.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 38
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIHaveAWife%5D.Sofi.Ryan.(23.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 39
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BThroated%5D.Gracie.Green.-.Balls.Deep.(19.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 40
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityJunkies%5D.Mila.Jade.-.Naughty.Sister!.(19.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="XXX", VOD ADULT 41
+ http://stream2.fastcdn.me/flv/490.mp4
+#EXTINF:-1 group-title="XXX", VOD ADULT 42
+ http://69.46.75.107/files/videos/140747456300c03.flv 
+#EXTINF:-1 group-title="XXX", VOD ADULT 43
+http://69.46.75.107/files/videos/1410962219b8929.flv 
+#EXTINF:-1 group-title="XXX", VOD ADULT 44
+http://69.46.75.107/files/videos/141188120614378.flv 
+#EXTINF:-1 group-title="XXX", VOD ADULT 45
+http://69.46.75.107/files/videos/141344498070660.flv
+
+
+#EXTINF:-1 group-title="JAV", JAV 1
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00001_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 2
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00002_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 3
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00003_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 4
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00004_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 5
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00005_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 6
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00006_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 7
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00007_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 8
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00008_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 9
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00009_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 10
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00010_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 11
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00011_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 12
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00012_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 13
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00013_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 14
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00014_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 15
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00015_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 16
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00016_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 17
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00017_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 18
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00018_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 19
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00019_720p.mp4
+#EXTINF:-1 group-title="JAV", JAV 20
+http://vlcdn2.vlxx.stream/vlxx/00001-00099/00020_720p.mp4
+
+ 
+
+
+#EXTINF:-1 group-title="EXPIRED", 13 Aug 2019
+http://123.456.789
